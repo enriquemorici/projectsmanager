@@ -1,0 +1,10 @@
+<settings>
+    <mirrors>
+        <mirror>
+            <id>archiva.default</id>
+            <name>Daitek Maven Repository</name>
+            <url>http://10.0.0.121:8080/repository/internal/</url>
+            <mirrorOf>*</mirrorOf>
+        </mirror>
+    </mirrors>
+</settings>
